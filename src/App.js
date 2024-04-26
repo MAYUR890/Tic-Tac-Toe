@@ -4,7 +4,7 @@ import TicTacToe from './pages/ticTacToe'
 function App() {
   return (
     <div className='tictactoe'>
-      <TicTacToe />
+      <TicTacToe  />
     </div>
   )
 }
